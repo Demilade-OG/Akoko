@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Display Football Images</string>
+    <string name="playername1">Harry Kane</string>
+    <string name="playername2">Suarez</string>
+    <string name="playername3">Rio Ferdinand</string>
+    <string name="playername4">Havertz</string>
+    <string name="playername5">Lewandowski</string>
+    <string name="playername6">Neymar</string>
+    <string name="playername7">Nedved</string>
+    <string name="playername8">Mbappe</string>
+    <string name="playername9">Messi</string>
+    <string name="playername10">Martial</string>
+    <string name="playername11">Memphis</string>
+    <string name="playername12">Ole Gunnar</string>
+    <string name="playername13">Tolisso</string>
+
+
+</resources>
